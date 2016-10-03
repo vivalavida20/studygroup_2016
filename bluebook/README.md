@@ -22,3 +22,4 @@
 * 홍성남(Sungnam Hong): https://github.com/magneticrose
 * 하현주 (Olivia Ha) : https://github.com/oliviaha
 * 박수석(David Park) : https://github.com/chiyodad
+* 이미희(Julie Lee) : httpsL//github.com/vivalavida20
